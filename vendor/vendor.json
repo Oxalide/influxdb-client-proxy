@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mrz/kicZiUaHxkyfvC/DyQcr8Do=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "ecdeabc65495df2dec95d7c4a4c3e021903035e5",
+			"revisionTime": "2017-10-02T20:02:53Z"
+		},
+		{
+			"checksumSHA1": "wn2shNJMwRZpvuvkf1s7h0wvqHI=",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "35b81a066e522fb86ece043a8ef1dbfa10b4fed1",
+			"revisionTime": "2017-12-13T10:47:50Z"
+		},
+		{
+			"checksumSHA1": "UVRTuz/Cu6Zcz28oV9BoTnwe3Lk=",
+			"path": "github.com/influxdata/influxql",
+			"revision": "851636b092678c9816f183ca8267a490c19be163",
+			"revisionTime": "2017-12-19T18:06:49Z"
+		},
+		{
+			"checksumSHA1": "uCroYbtVmQKn7GChPMMc+vqXFYQ=",
+			"path": "github.com/influxdata/influxql/internal",
+			"revision": "851636b092678c9816f183ca8267a490c19be163",
+			"revisionTime": "2017-12-19T18:06:49Z"
+		}
+	],
+	"rootPath": "github.com/Oxalide/influxdb-client-proxy"
+}
